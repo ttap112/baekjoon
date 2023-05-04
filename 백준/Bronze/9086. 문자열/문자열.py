@@ -1,0 +1,7 @@
+a=int(input())
+b=str(input())
+c=str(input())
+d=str(input())
+print(b[0]+b.strip()[-1])
+print(c[0]+c.strip()[-1])
+print(d[0]+d.strip()[-1])
